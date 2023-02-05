@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/a-chaudhary/)
 - I'm a student @ [Columbia University](https://www.columbia.edu/) studying CS + Operations Research
-- I am interested in Automation and AI
+- I like automation & AI
+- I am interested in the intersection of Tech & Finance
