@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/a-chaudhary)
  ![](https://komarev.com/ghpvc/?username=A-Chaudhary&style=for-the-badge)
 - I'm a student @ [Columbia University](https://www.columbia.edu/) studying CS + Operations Research
 - I like automation & AI
