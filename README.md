@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.svg)](https://www.linkedin.com/in/a-chaudhary)
  ![](https://komarev.com/ghpvc/?username=A-Chaudhary&style=for-the-badge)
-- I'm a student @ [Columbia University](https://www.columbia.edu/) studying CS + Operations Research
+- I'm a CS Grad from [Columbia University](https://www.columbia.edu/)
+- I'm currently a ML Research Engineer @ [S&P Global](https://www.spglobal.com/en)
 - I like automation & AI
 - I am interested in the intersection of Tech & Finance
